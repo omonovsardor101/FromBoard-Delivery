@@ -1,6 +1,6 @@
-# 📦Online Delivery Service
+# 📦Online Delivery Service Langing Page
 
-## Adaptive Single-page Langing Page using HTML, CSS and some JavaScript
+## Responsive Single-page Langing Page using HTML, CSS and some JavaScript
 
 **Links**
 
